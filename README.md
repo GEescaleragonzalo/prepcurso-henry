@@ -1,2 +1,3 @@
-# prepcurso-henry
-este es un repositorio del modulo 2 del curso de henry 
+# Gonzalo Escalera 
+Prueba de como clonar un reoositorio de gihub a mi escritorio local 
+
